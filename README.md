@@ -1,3 +1,5 @@
-# Title (update this to match assignment, e.g., Exercise 3, etc.)
+exercise 6 packages
 
-add short (1-2 sentences) description of assignment here
+navigate to the src folder within the project (cd src)
+then to run the main class compile first with: javac pizza/PizzaMain.java
+then to actually run the file: java pizza.PizzaMain
